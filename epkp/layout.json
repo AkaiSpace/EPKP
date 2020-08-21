@@ -1,0 +1,109 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/akaispace-epkp/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132398945780000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 307,
+      "date": 132424245903335838
+    },
+    {
+      "path": "scenery/global/scenery/modelLib.BGL",
+      "size": 101264,
+      "date": 132424245902867085
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/AIRPORT_LIGHTS_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132424245880436038
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/AIRPORT_LIGHTS_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132424245880416077
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/AIRPORT_LIGHTS_COMP.PNG.DDS",
+      "size": 1398276,
+      "date": 132424245900573215
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/AIRPORT_LIGHTS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132424245900543295
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/AIRPORT_LIGHTS_EMISSIVE.PNG.DDS",
+      "size": 699192,
+      "date": 132424245882869523
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/AIRPORT_LIGHTS_EMISSIVE.PNG.DDS.json",
+      "size": 102,
+      "date": 132424245882859545
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/AIRPORT_LIGHTS_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132424245901829861
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/AIRPORT_LIGHTS_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132424245901799932
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/TEST_CHECKER.PNG.DDS",
+      "size": 312,
+      "date": 132424245902178923
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/TEST_CHECKER.PNG.DDS.json",
+      "size": 102,
+      "date": 132424245902168952
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/TILE_METAL_GALVA_ALBEDO.PNG.DDS",
+      "size": 87536,
+      "date": 132424245885542402
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/TILE_METAL_GALVA_ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132424245885522456
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/TILE_METAL_GALVA_COMP.PNG.DDS",
+      "size": 87556,
+      "date": 132424245885273140
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/TILE_METAL_GALVA_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132424245885263163
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/TILE_METAL_GALVA_NORMAL.PNG.DDS",
+      "size": 87536,
+      "date": 132424245880605579
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/TILE_METAL_GALVA_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132424245880585619
+    },
+    {
+      "path": "scenery/world/scenery/EPKP_SHAPES.BGL",
+      "size": 1606,
+      "date": 132424259600339499
+    },
+    {
+      "path": "scenery/world/scenery/objects.bgl",
+      "size": 3751,
+      "date": 132424259600189892
+    }
+  ]
+}
