@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/akaispace-epkp/Thumbnail.jpg",
+      "size": 57599,
+      "date": 132431031750935290
+    },
+    {
+      "path": "manifest.json",
+      "size": 292,
+      "date": 132432083682900247
+    },
+    {
+      "path": "scenery/EPKP_SHAPES.BGL",
+      "size": 1666,
+      "date": 132432127382461890
+    },
+    {
+      "path": "scenery/Modelsy.BGL",
+      "size": 56,
+      "date": 132431035779782216
+    },
+    {
+      "path": "scenery/objects.bgl",
+      "size": 10292,
+      "date": 132432127382252457
+    }
+  ]
+}
