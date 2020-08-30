@@ -1,13 +1,13 @@
 # EPKP - Aeroklub Krakowski Pobiednik Wielki k. Krakowa
 
-####PL
+#### PL
 Sceneria zbudowana w całości z podstawowych modeli dostarczonych przez MSFS2020
 
 **Instalacja:** 
 1. Pobierz repozytorium (Code -> Download ZIP)
 2. Rozpakuj EPKP-master.zip i umieść folder epkp w folderze Community twojego symulatora.
 
-####EN
+#### EN
 Scenery built entirely of stock MSFS2020 models
 
 **Installation:**
