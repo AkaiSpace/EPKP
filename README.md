@@ -14,7 +14,7 @@ Scenery built entirely of stock MSFS2020 models
 1. Download repository (Code -> Download ZIP)
 2. Unpack EPKP-master.zip and place EPKP - Aeroklub Krakowski folder in Community folder of your sim.
 
-##CHANGELOG 
+## CHANGELOG 
 
 **V1.0.2**:
 
